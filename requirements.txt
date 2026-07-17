@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+ultralytics
+opencv-python-headless
+numpy
+joblib
+scikit-learn
+tensorflow
+keras
+python-multipart
+websockets
+netifaces
+pyngrok
